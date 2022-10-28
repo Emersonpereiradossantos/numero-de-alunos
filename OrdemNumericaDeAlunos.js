@@ -8,4 +8,3 @@ for (let contador = 0; contador < numeroDeAlunos; contador++){
     }else{
         console.log(`o numero ${contador} é impar`)
     }
-}
